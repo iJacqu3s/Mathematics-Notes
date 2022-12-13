@@ -5,6 +5,8 @@ Title | Type | Description | Constants
 1 | Linear | Arithmetic Sequence | First difference remains constant
 2 | Quadratic | Quadratic Sequence | Second difference remains constant
 3 | Exponential | Geometric Sequence | The change in the difference is constant
+4 | "Special" | "Special" Sequence | Dependant on the type of sequence
+
 
 ---
 ## 1. Arithmetic Sequence (Linear)
@@ -135,8 +137,64 @@ $$2, 4, 8, 16, 32, 64, 128, ... $$
 
 is an exponential sequence because each term is obtained by multiplying the previous term by 2 (the common ratio). 
 
+
+![This image has an empty alt attribute; its file name is Sequences-Hub-3.svg|300](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-3.svg)
+
+![Sequences Hub 4|300](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-4.svg)
+
 The general formula for an exponential sequence is 
 
 $$Tn = a  r^{(n-1)}$$
 
 where "a" is the first term in the sequence, "r" is the common ratio, and "n" is the position of the term in the sequence.
+
+---
+## "Special" Sequences
+
+### Square numbers
+
+A square number is the result when a number is multiplied by itself.
+
+![Sequences Hub 6](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-6.svg)
+
+This sequence has a general term of 
+
+$$ Tn=n^2 $$
+
+---
+### Cube Sequences
+
+Similarly to square sequences, a square number is the result of multiplying a number by itself 3 times.
+
+![Sequences Hub 7](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-7.svg)
+
+This sequence has a general term of 
+
+$$ Tn=n^3 $$
+
+A sequence like this would therefore looks something like this:
+
+$$3 ; 27; 19683 ; ...$$
+
+---
+### Triangular Sequences
+
+A triangular sequence can form a triangular dot pattern when drawn.
+
+![Sequences Hub 8](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-8.svg)
+
+This sort of pattern can be made by adding one more to the difference 
+
+![This image has an empty alt attribute; its file name is Sequences-Hub-9.svg|300](https://thirdspacelearning.com/wp-content/uploads/2021/05/Sequences-Hub-9.svg)
+
+---
+
+### Fibonacci Sequence
+
+This sequence can be made by adding the previous two terms in a sequence together to find the next term in said sequence.
+
+For example:
+
+$$0, 1, 1, 2, 3, 5, 8, 13, 21, …$$
+
+Term 3 is found by adding term 1 and term 2 together, the result of which, is 1. 
