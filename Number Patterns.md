@@ -11,7 +11,9 @@ Title | Type | Description | Constants
 An arithmetic (linear) sequence is one where the difference between two neighbouring values is the same for all the values in the sequence.
 
 For example:
-$$\text{1 ; 2 ; 3 ; 4 ; 5 ; ...}$$
+
+$$1 ; 2 ; 3 ; 4 ; 5 ; ...$$
+
 Every new number in the sequence is just the previous one plus 1
 
 These sequences are often the easier of the sequences that you can come across. 
@@ -22,17 +24,22 @@ The difference between two neighbouring terms have a constant difference between
 
 Take this row as an example:
 
-$$ \text{ T₁ ; T₂ ; T₃ ; ...}$$
+$$  T₁ ; T₂ ; T₃ ; ...$$
+
 T stands for term, and the numbers next to it are the positions in the sequence. You should be able to read this sequence as "Term 1, Term 2, Term 3, etc."
 
 Since this is an arithmetic sequence, the difference between neighbouring terms will always be the same. So, to calculate that difference (d), you would do the following:
 
 $$ \text{T₂} - \text{T₁} = d$$
+
 $$ \text{T₃} - \text{T₂} = d$$
+
 This is how you will be able to find out both the formula of the sequence and the next term in the sequence.
 
 Here is the general formula for determining the difference
+
 $$d=\text{T(n)} - \text{T(n-1)}$$
+
 Here, "n" stands for number, or, in this case, position.
 
 **Note:** The second difference (the difference between two neighbouring differences) will always be 0, in other words, d₂ - d₁ = 0
