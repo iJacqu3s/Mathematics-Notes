@@ -62,31 +62,45 @@ You can use this to calculate the next term in the sequence, or to find values t
 ##### 1) **Determine the nth term:**
 1. Find the value of term 64
 	Given:
+
 $$ \text{11 ; 8 ; 5 ; ...} $$
+
 2. Find the value of term 36
 	Given:
+
 $$ \text{2 ; 9 ; 16 ; 23 ; ...} $$
+
 3. Find the value of term 8
 	Given:
+
 $$\frac{2}{3} ;\frac{11}{3}; \frac{20}{3}; \text{...} $$
 
 ##### 2) Solve the given problem if a sequence or set of terms are given**
 1. Find the position of the value -22
 	Given:
+
 $$ 11 ; 8 ; 5 ; ... $$
+
 2. Find the position of the value 65
 	Given:
+
 $$ 2 ; 9 ; 16 ; 23 ; ...$$
+
 3. Find the position of the value 78
 	Given:
+
 $$ -2 ; 2 ; 3 ; 2 ; 8 ; 2 ; ... ; 78 $$
+
 4. Find the position of the value 72
 	Given:
+
 $$ T₁ = 2 ; T₇ = 16 $$
+
 5. Find the value of term 15
 	Given: 
 
 $$ T₄ = 14; T₁₆ = 50 $$
+
 6. Find the value of term 27
 	Given:
 
@@ -110,6 +124,7 @@ $$ \text{x=2 ; x-3 ; x-7} $$
 
 3. Solve the given sequence
 	Given: 
+	
 $$ \text{ 4 ; x ; y ; -8 } $$
 
 ##### 5) Solve the problem with the given word problem
@@ -122,7 +137,9 @@ $$ \text{ 4 ; x ; y ; -8 } $$
 ## 2. Quadratic Sequence
 
 A quadratic sequence is a sequence of numbers in which each term can be represented by a quadratic expression of the form
+
 $$ \text{Tn = } a n^2 + b n + c $$
+
 where a, b, and c are constants and n is the position of the term in the sequence.
 
 Quadratic sequences always include an n² term and can also be called quadratic algebraic sequences.
@@ -140,7 +157,9 @@ For quadratic sequences, the difference between each pair of adjacent terms is c
 ![What are quadratic sequences?](https://thirdspacelearning.com/wp-content/uploads/2021/07/Quadratic-Sequences-What-is-Card.png)
 
 For example, the quadratic sequence
+
 $$3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, ...$$
+
 has a second difference of 4, and each pair of adjacent terms has a difference of 4 as well.
 
 To find the second difference of a quadratic sequence, you can follow these steps:
