@@ -155,3 +155,5 @@ $$ \text{ x ; }\text{x+d ; } \text{x+(d+c) ; } \text{x+(d+2c) ; } ...$$
 Where x is the first term, d is the difference between the first two terms, and c is the constant second difference.
 
 You can use this to calculate the next term in the sequence
+
+### 
