@@ -6,6 +6,7 @@ Title | Type | Description | Constants
 2 | Quadratic | Quadratic Sequence | Second difference remains constant
 3 | Exponential | Geometric Sequence | The change in the difference is constant
 
+---
 ## 1. Arithmetic Sequence (Linear)
 
 An arithmetic (linear) sequence is one where the difference between two neighbouring values is the same for all the values in the sequence.
@@ -18,6 +19,7 @@ Every new number in the sequence is just the previous one plus 1
 
 These sequences are often the easier of the sequences that you can come across. 
 
+---
 ### Find the Difference
 
 The difference between two neighbouring terms have a constant difference between them. This difference can be used to calculate the formula for the row.
@@ -44,6 +46,7 @@ Here, "n" stands for number, or, in this case, position.
 
 **Note:** The second difference (the difference between two neighbouring differences) will always be 0, in other words, d₂ - d₁ = 0
 
+---
 ### General Formula
 
 Now that you have the first difference, you can begin to use it to figure out the formula of the sequence! You will be using the general formula below to do this:
@@ -57,6 +60,7 @@ n | Position of term
 a | First term (T₁)
 d | Difference
 
+---
 ### Find the Next Term in the Sequence
 
 Generally, the sequence will follow a pattern along the lines of something like this:
@@ -140,7 +144,7 @@ $$ \text{ 4 ; x ; y ; -8 } $$
 
 2. Solve the given word problem and sequence
 	Given: Term 1 is equal to two and term 7 is equal to 16. Which term's value is equal to 72?
-
+---
 ## 2. Quadratic Sequence
 
 A quadratic sequence is a sequence of numbers in which each term can be represented by a quadratic expression of the form
