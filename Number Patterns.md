@@ -65,7 +65,7 @@ d | Difference
 
 Generally, the sequence will follow a pattern along the lines of something like this:
 
-$$ a + (n-1)d ; a + (n-1)d ;  a + (n-1)d ;  ...$$$$ \text{↓}$$$$ a + 0d ; a + 1d ;  a + 2d ;  ...$$
+$$ a + (n-1)d ; a + (n-1)d ;  a + (n-1)d ;  ...$$$$↓$$$$ a + 0d ; a + 1d ;  a + 2d ;  ...$$
 You can use this to calculate the next term in the sequence, or to find values that weren't given to you. Keep this in mind for more complex problems later on. 
 
 ### Example Problems
