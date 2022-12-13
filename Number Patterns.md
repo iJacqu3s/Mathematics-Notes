@@ -54,7 +54,7 @@ d | Difference
 
 Generally, the sequence will follow a pattern along the lines of something like this:
 
-$$ \text{a + (n-1)d ; }\text{a + (n-1)d ; } \text{a + (n-1)d ; } ...$$$$ \text{↓}$$$$ \text{a + 0d ; }\text{a + 1d ; } \text{a + 2d ; } ...$$
+$$ a + (n-1)d ; a + (n-1)d ;  a + (n-1)d ;  ...$$$$ \text{↓}$$$$ a + 0d ; a + 1d ;  a + 2d ;  ...$$
 You can use this to calculate the next term in the sequence, or to find values that weren't given to you. Keep this in mind for more complex problems later on. 
 
 ### Example Problems
@@ -73,33 +73,41 @@ $$\frac{2}{3} ;\frac{11}{3}; \frac{20}{3}; \text{...} $$
 ##### 2) Solve the given problem if a sequence or set of terms are given**
 1. Find the position of the value -22
 	Given:
-$$ \text{11 ; 8 ; 5 ; ...} $$
+$$ 11 ; 8 ; 5 ; ... $$
 2. Find the position of the value 65
 	Given:
-$$ \text{2 ; 9 ; 16 ; 23 ; ...} $$
+$$ 2 ; 9 ; 16 ; 23 ; ...$$
 3. Find the position of the value 78
 	Given:
-$$ \text{-2 ; 2 ; 3 ; 2 ; 8 ; 2 ; ... ; 78} $$
+$$ -2 ; 2 ; 3 ; 2 ; 8 ; 2 ; ... ; 78 $$
 4. Find the position of the value 72
 	Given:
-$$ \text{ T₁ = 2 ; T₇ = 16} $$
+$$ T₁ = 2 ; T₇ = 16 $$
 5. Find the value of term 15
 	Given: 
-$$ \text{T₄ = 14 };\text{ T₁₆ = 50} $$
+
+$$ T₄ = 14; T₁₆ = 50 $$
 6. Find the value of term 27
 	Given:
-$$ \text{T₅ = 23 };\text{ T₁₂ = 72} $$
+
+$$ T₅ = 23 ;T₁₂ = 72$$
 
 ##### 4) **Find the asked if the sequence contains variables**
 1. Solve the given sequence
 	Given:
+
 $$ \text{x+2 ; 3x-1 ; 4x-3} $$
+
 2. Solve the given sequence
 	Given:
+
 $$ \text{4-2x ; x-1 ; 3x-2} $$
+
 2. Find the value of x
 	Given:
+
 $$ \text{x=2 ; x-3 ; x-7} $$
+
 3. Solve the given sequence
 	Given: 
 $$ \text{ 4 ; x ; y ; -8 } $$
@@ -152,6 +160,7 @@ Note that the second difference of a quadratic sequence is not always 0, as in t
 Generally, the sequence will follow the pattern:
 
 $$ \text{ x ; }\text{x+d ; } \text{x+(d+c) ; } \text{x+(d+2c) ; } ...$$
+
 Where x is the first term, d is the difference between the first two terms, and c is the constant second difference.
 
 You can use this to calculate the next term in the sequence
